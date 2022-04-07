@@ -1,0 +1,33 @@
+# robots.txt file
+
+User-agent: *
+User-agent: googlebot
+User-agent: Googlebot-Video
+User-agent: Applebot
+User-agent: bingbot
+User-agent: Baiduspider
+User-agent: Baiduspider-mobile
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: NaverBot
+User-agent: Yeti
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexMobileBot
+User-agent: YandexVideo
+User-agent: YandexWebmaster
+User-agent: YandexSitelinks
+User-agent: SeznamBot
+
+Disallow: /profile
+Disallow: /authenticate
+Disallow: /clearcookies
+Disallow: /cart
+Disallow: /checkout
+
+User-agent: AdsBot-Google
+User-agent: Twitterbot
+User-agent: Adidxbot
+
+
+SITEMAP: https://yugen.beuniquegroup.dev/sitemap.xml
